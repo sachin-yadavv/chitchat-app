@@ -1,17 +1,6 @@
+# Backend specific
+node_modules/
 .env
 
-# dependencies
-node_modules/
-
-# logs
+# Logs
 npm-debug.log*
-yarn-debug.log*
-pnpm-debug.log*
-
-# build output
-dist/
-build/
-
-# OS files
-.DS_Store
-Thumbs.db
